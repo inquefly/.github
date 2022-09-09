@@ -1,8 +1,7 @@
+![Quefly.](https://quefly.com/wp-content/uploads/2021/07/High-Resolution-Logo-150x150.png "Quefly India Private Limited")
 ## Copyrights @ Quefly India Private Limited
-
 Development Repository
 
-![Quefly.](https://quefly.com/wp-content/uploads/2021/07/High-Resolution-Logo-150x150.png "This is a sample image.")
 <!--
 
 **Here are some ideas to get you started:**
