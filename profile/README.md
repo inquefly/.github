@@ -9,11 +9,11 @@ Quefly boasts its transparent open culture and remote working environment and ha
 
 ## Contact
 ###### Quefly India Private Limited
-###### DLF Cybercity
-###### Technology Corridor,
-###### Chandaka Industrial Estate,
-###### Patia, Bhubaneswar,
-###### Odisha 751024
+DLF Cybercity
+Technology Corridor,
+Chandaka Industrial Estate,
+Patia, Bhubaneswar,
+Odisha 751024
 
 ## Copyrights @ Quefly India Private Limited
 ###### Development Repository
