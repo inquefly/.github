@@ -1,5 +1,4 @@
 ## About Us
-###### Development Github Repository
 ![Quefly.](https://quefly.com/wp-content/uploads/2021/07/High-Resolution-Logo-150x150.png "Quefly India Private Limited")
 
 Quefly is Digital Engineering and Consulting Company founded in the year 2021 amidst Pandemic with a vision to create Modern Software Solutions for the new age Business to run at scale. With a Global HQ in India and Registered as Quefly India Private Limited (with RoC Cuttack, Ministry of Corporate Affairs, India) for worldwide businesses & operations.
