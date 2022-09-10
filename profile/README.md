@@ -1,7 +1,6 @@
 ## About Us
 ![Quefly.](https://quefly.com/wp-content/uploads/2021/07/High-Resolution-Logo-150x150.png "Quefly India Private Limited")
-
-Quefly is a New Age Digital Experience Provider and a Cloud Driven IT Consulting Company based out of India.
+is a New Age Digital Experience Provider and a Cloud Driven IT Consulting Company based out of India.
 We help Business to Build their Brand reputation , Streamline Business Process , Enhance Productivity and Increase Revenue. 
 We are India’s first Company to Provide End to End Services for every needs of the Customer. from Building Brand Reputation to Developing Scalable Cloud based Software Solutions to meet Business Productivity & Efficiency and creating amazing Digital Marketing Strategies to Increase Revenue and Global Market Presence
 
